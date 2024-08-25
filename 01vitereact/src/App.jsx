@@ -1,7 +1,13 @@
+import User from "./01"
+
 function App() {
 
   return (
-    <h1>Hello Sunshine| Izza Shahzad</h1>
+    <>
+    <User/>
+    <h1>Hello Sunshine</h1>
+    <p>test paragrapgh</p>
+    </>
   )
 }
 
